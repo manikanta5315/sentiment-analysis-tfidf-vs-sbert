@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files
+*.csv
+*.zip
+
+# Saved models/embeddings
+*.pkl
+*.npy
+
+# OS junk
+.DS_Store
+Thumbs.db
